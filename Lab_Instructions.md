@@ -2,8 +2,8 @@
 1. Open Microsoft Edge.
 2. Navigate to (https://security.microsoft.com)
 3. Sign in with the global admin account credentials for your Microsoft 365 tenant.
-NOTE: If you do not already have a free trial for Microsoft 365, follow the steps provided in 
-[What is Microsoft 365](https://docs.microsoft.com/learn/modules/what-is-m365/3a-explore-m365-tenant).
+
+**NOTE:** If you do not already have a free trial for Microsoft 365, follow the steps provided in [What is Microsoft 365](https://docs.microsoft.com/learn/modules/what-is-m365/3a-explore-m365-tenant).
 
 ## Task 2: Explore the Microsoft 365 security center
 1. From the Microsoft 365 security center welcome page, locate the secure score card.  Right-click on **Microsoft Secure Score** and select **open link in a new tab**.
